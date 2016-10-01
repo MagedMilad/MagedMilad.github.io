@@ -7,22 +7,20 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Maged Milad"
+description              : &description "Maged Milad academic & professional website"
+url                      : "https://magedmilad.github.io/"
+baseurl                  : ""
+repository               : "https://github.com/MagedMilad/MagedMilad.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus", "facebook", "staticman"
   disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    shortname            : "magedmilad-github-io"
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -70,40 +68,40 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          : "UA-85068022-1"
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Maged Milad"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "software engineer student"
+  location         : "Alexandria, Egypt"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  googlescholar    : 
+  email            : "magedmilad08@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "maged.milad.777"
   foursquare       :
-  github           : "academicpages"
+  github           : "MagedMilad"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "magedmilad"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/6685656/maged-milad"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
