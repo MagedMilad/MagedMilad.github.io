@@ -203,7 +203,7 @@ defaults:
   # _contact
   - scope:
       path: "/contact/"
-      type: pages
+      type: contact
     values:
       layout: single
       read_time: false
