@@ -201,15 +201,15 @@ defaults:
       layout: single
       author_profile: true
   # _contact
-  - scope:
-      path: "/contact/"
-      type: contact
-    values:
-      layout: single
-      read_time: false
-      author_profile: true
-      share: false
-      comments: false
+  #  - scope:
+  #      path: "/contact/"
+  #      type: contact
+  #    values:
+  #      layout: single
+  #      read_time: false
+  #      author_profile: true
+  #      share: false
+  #      comments: false
   ## _publications
   #- scope:
   #    path: ""
