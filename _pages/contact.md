@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /cv/
+permalink: /contact/
 author_profile: true
 redirect_from:
-  - /wordpress/cv/
+  - /wordpress/contact/
 ---
 ## A New Post
 
