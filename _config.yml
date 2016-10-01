@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 comments:
-  provider               : "disqus", "facebook", "staticman"
+  provider               : "disqus"
   disqus:
     shortname            : "magedmilad-github-io"
   facebook:
