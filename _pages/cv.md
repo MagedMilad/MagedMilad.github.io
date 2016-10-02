@@ -32,6 +32,33 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Technical Skills
+===
+- **Programming Languages**
+  - Java, C/C++
+- **Mobile Application Development**
+  - Android 
+- **Web Development**
+  - **Client side scripting:**
+      1. HTML/XHTML
+      2. XML
+      3. JavaScript
+      4. Angular2
+  - **Other Technologies:**
+      1. JSON
+      3. J2EE Platform
+- **Database Development**
+  - DBMS: 
+      1. MYSQL
+      2. SQLite
+- **Other Technologies**
+  - Object Oriented Design
+  - Design patterns
+  - GIT
+  - APIs
+  - RESTful Web Services
+
+
 Honors and Awards
 ===
 - 25th/130 ACM Egyptian collegiate programming national contest ECPC 2015.
