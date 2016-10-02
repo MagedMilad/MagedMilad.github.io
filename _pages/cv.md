@@ -34,10 +34,10 @@ Skills
 
 Honors and Awards
 ===
-*25th/130 ACM Egyptian collegiate programming national contest ECPC 2015.
-*15th/160 ACM Egyptian collegiate programming national contest ECPC 2014.
-*5th/30 ACM Alexandria collegiate programming contest AlexCPC 2014.
-*5th/26 ACM Delta collegiate programming contest DeltaCPC 2014.
+- 25th/130 ACM Egyptian collegiate programming national contest ECPC 2015.
+- 15th/160 ACM Egyptian collegiate programming national contest ECPC 2014.
+- 5th/30 ACM Alexandria collegiate programming contest AlexCPC 2014.
+- 5th/26 ACM Delta collegiate programming contest DeltaCPC 2014.
 
 
 
