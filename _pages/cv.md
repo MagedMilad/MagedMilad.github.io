@@ -48,6 +48,7 @@ Technical Skills
   - Design patterns
   - GIT
   - APIs
+  - Firebase
   - RESTful Web Services
   
 
