@@ -41,11 +41,15 @@ Technical Skills
       1. MYSQL
       2. SQLite
 - **Other Technologies**
+  - Algorithms
+  - Data Structure
+  - Problem Solving
   - Object Oriented Design
   - Design patterns
   - GIT
   - APIs
   - RESTful Web Services
+  
 
 
 Honors and Awards
