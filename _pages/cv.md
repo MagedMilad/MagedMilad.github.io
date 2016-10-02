@@ -12,21 +12,16 @@ published: true
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2017 (expected)
+* B.S in Computer and Systems Engineering Department, Alexandria University, Egypt, 2017, GPA 3.3 (current).
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Rejecting pull requests
-  * Supervisor: Professor Git
+- **Summer 2016: Software Engineer Summer Intern in Unilever**
+  * upgrade the system UI from the old Oracle forms technology to J2EE
+  * developed responsive fronted using Angular2, Primefaces and Ag-Grid
+  * provide a data grid for reporting and data analytics, business workflow and data entry
+  * used: J2EE, RESTful webservice, primefaces, Ag-Grid, Angular2
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Rejecting pull requests
-  * Supervisor: Professor Hub
 
 Skills
 ======
@@ -37,22 +32,12 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  {% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
+Honors and Awards
+===
+*25th/130 ACM Egyptian collegiate programming national contest ECPC 2015.
+*15th/160 ACM Egyptian collegiate programming national contest ECPC 2014.
+*5th/30 ACM Alexandria collegiate programming contest AlexCPC 2014.
+*5th/26 ACM Delta collegiate programming contest DeltaCPC 2014.
 
-Talks
-======
-  {% for post in site.talks %}
-    {% unless post.talk_type == "Conference proceedings talk" %}
-      {% include archive-single-talk-cv.html %}
-    {% endunless %}
-  {% endfor %}
 
-Teaching
-======
-  {% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
+
