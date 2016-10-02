@@ -12,6 +12,8 @@ Education
 ======
 * B.S in Computer and Systems Engineering Department, Alexandria University, Egypt, 2017, GPA 3.3 (current).
 
+***
+
 Work experience
 ======
 - **Summer 2016: Software Engineer Summer Intern in Unilever**
@@ -19,6 +21,9 @@ Work experience
   * developed responsive fronted using Angular2, Primefaces and Ag-Grid
   * provide a data grid for reporting and data analytics, business workflow and data entry
   * used: J2EE, RESTful webservice, primefaces, Ag-Grid, Angular2
+
+
+***
 
 
 Technical Skills
@@ -52,6 +57,9 @@ Technical Skills
   - RESTful Web Services
   
 
+***
+
+
 
 Honors and Awards
 ===
@@ -59,6 +67,10 @@ Honors and Awards
 - 15th/160 ACM Egyptian collegiate programming national contest ECPC 2014.
 - 5th/30 ACM Alexandria collegiate programming contest AlexCPC 2014.
 - 5th/26 ACM Delta collegiate programming contest DeltaCPC 2014.
+
+
+***
+
 
 Certificate
 ===
