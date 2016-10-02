@@ -58,11 +58,15 @@ Honors and Awards
 Certificate
 ===
 
-- **Developing Android Apps** <br />
+<img align="right" src="https://github.com/MagedMilad/MagedMilad.github.io/blob/master/images/udacity.png">
+-  **Developing Android Apps** <br />
 [Udacity](https://drive.google.com/file/d/0Bx6Un3PlfsglWURjZC1SMDVoc0k/view?usp=sharing) <br />
-Starting September 2009 <br /> <br />
+Starting September 2009 <br /> <br /> 
 
 
+
+<img align="right" src="https://github.com/MagedMilad/MagedMilad.github.io/blob/master/images/udemy.png">
+<img align="right" src="https://github.com/MagedMilad/MagedMilad.github.io/blob/master/images/SRL.png">
 - **Angular 2 Crash Course with TypeScript** <br />
 Udemy, [License UC-RQKP43KO](http://ude.my/UC-RQKP43KO) <br />
 Stone River eLearning, [License Accredible-10295325](https://www.credential.net/10295325) <br />
