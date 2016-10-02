@@ -3,8 +3,6 @@ layout: archive
 title: CV
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /wordpress/cv/
 published: true
 ---
 
@@ -22,15 +20,6 @@ Work experience
   * provide a data grid for reporting and data analytics, business workflow and data entry
   * used: J2EE, RESTful webservice, primefaces, Ag-Grid, Angular2
 
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Technical Skills
 ===
@@ -65,6 +54,23 @@ Honors and Awards
 - 15th/160 ACM Egyptian collegiate programming national contest ECPC 2014.
 - 5th/30 ACM Alexandria collegiate programming contest AlexCPC 2014.
 - 5th/26 ACM Delta collegiate programming contest DeltaCPC 2014.
+
+Certificate
+===
+
+- **Developing Android Apps** <br />
+[Udacity](https://drive.google.com/file/d/0Bx6Un3PlfsglWURjZC1SMDVoc0k/view?usp=sharing) <br />
+Starting September 2009 <br /> <br />
+
+
+- **Angular 2 Crash Course with TypeScript** <br />
+Udemy, [License UC-RQKP43KO](http://ude.my/UC-RQKP43KO) <br />
+Stone River eLearning, [License Accredible-10295325](https://www.credential.net/10295325) <br />
+Starting September 2016 <br />
+
+
+
+
 
 
 
